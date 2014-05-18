@@ -7,16 +7,22 @@
 
 **test_y** - Test data activity numbers  
 
+
 **subject_train** - Training data subject number
 
 **train_x** - Training data feature measurements
+
 **train_y** - Training data activity numbers
 
+
 **subject** - Merged subject_test and subject_train
+
 **x** - Merged test and traing feature measurements
+
 **y** - Merged test and training activity numbers
 
 **activity_labels** - Activity labels .. WALKING, SITTING, .....
+
 **feature_labels** - Feature label names tBodyAccJerk-arCoeff()-X,1, tBodyGyro-std()-Y ........
 
 **activity** - merged activity number in y and activity labels in activity_labels variables

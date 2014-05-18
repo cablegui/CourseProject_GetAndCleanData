@@ -4,17 +4,17 @@
 
 1. Set the working directory
 2. Test data
-..1 Collect subject number test data
-..2. Collect 561 features measurements of subject test data
-..3. Collect the activity label numbers of subject test data
+  - Collect subject number test data
+  - Collect 561 features measurements of subject test data
+  - Collect the activity label numbers of subject test data
 3. Training data
-..1. Colect subject number training data
-..2. Collect 561 features measurements of subject training data
-..3. Collect the activity label numbers of subject training data
+  - Colect subject number training data
+  - Collect 561 features measurements of subject training data
+  - Collect the activity label numbers of subject training data
 4. Merging
-..1. Merge subject number training and test datasets. This is the subject number data set
-..2. Merge 561 feature training and test data set. This is the feature data set
-..3. Merge activity label numbers of subject training and test data sets. This is the activity label data set
+  - Merge subject number training and test datasets. This is the subject number data set
+  - Merge 561 feature training and test data set. This is the feature data set
+  - Merge activity label numbers of subject training and test data sets. This is the activity label data set
 5. Read activity label names
 6. Read feature names
 7. Merge activity label numbers with activity labels
