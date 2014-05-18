@@ -4,7 +4,7 @@
 
 1. Set the working directory
 2. Test data
-..1. Collect subject number test data
+..1 Collect subject number test data
 ..2. Collect 561 features measurements of subject test data
 ..3. Collect the activity label numbers of subject test data
 3. Training data

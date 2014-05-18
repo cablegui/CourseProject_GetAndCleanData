@@ -1,10 +1,14 @@
-##a code book that describes the variables, the data, and any transformations or work that you performed to clean up the data called CodeBook.md.
+###A code book that describes the variables, the data, and any transformations or work that you performed to clean up the data called CodeBook.md.
 
 ####Variables used
 **subject_test** - Test data subject number 
+
 **test_x** - Test data feature measurements
+
 **test_y** - Test data activity numbers  
+
 **subject_train** - Training data subject number
+
 **train_x** - Training data feature measurements
 **train_y** - Training data activity numbers
 
